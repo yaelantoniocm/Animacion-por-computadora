@@ -18,7 +18,8 @@
             - Tarea 3: Cuerpo Humano
                  
             Proyecto:
+            Demasiado pesado para subirlo :p 
             
             Accesorios Extras:
-            
+            Demasiado pesado para subirlo :p 
             
