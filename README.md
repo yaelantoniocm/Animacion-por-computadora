@@ -3,11 +3,22 @@
 
            Ayudantes: Jorge Barragán Argüero
             
-           Sergio Giovanni Bisogno Léon y Vélez	
+                      Sergio Giovanni Bisogno Léon y Vélez	
             
             Practricas: 
+            
+            - Practica 1: Biblioteca Central
+            - Practica 2: Sistema Solar
+            - Practica 3: Cuerpo Humano, Goyo y perro (Todos con riggin)
 
             Tareas:
-
+            
+            - Tarea 1: Castillo
+            - Tarea 2: Desayuno.
+            - Tarea 3: Cuerpo Humano
+                 
             Proyecto:
+            
+            Accesorios Extras:
+            
             
